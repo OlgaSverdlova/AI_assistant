@@ -1,5 +1,5 @@
 # AI-assistant for a Coffee Haus
-
+The prototype in Telegram available at: t.me/coffeemagic_test_bot
 ---
 
 ## Overview
